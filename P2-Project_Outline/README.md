@@ -8,6 +8,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
+
 ### Features
 Include Features here
 ### Technologies
