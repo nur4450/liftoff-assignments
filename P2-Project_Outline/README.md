@@ -11,7 +11,7 @@ I wanted to create an app where people can search the cities by their ratings in
 
 ### Features
 Users login: Users will be able to create accounts and log in to the application.
-Search:Users will be able to search cities country, territory, or state.
+Search:Users will be able to search cities by country, territory, or state.
 Sort: Users will be able to sort cities by ratings.
 Review: Users will be able to add review for cities.
 
