@@ -7,14 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-I wanted to create an app where people can search the cities by their ratings in different categories such as safety, affordability, schools, hospitals, sociality. I thought seeing reviews from local people would help to persons like myself to pick best location to live. This app would help for people who relocate and don't have someone to ask for recommendation or don't have time to make a deep search about cities.
+I wanted to create an app where people can search the cities by their ratings in different categories such as safety, affordability, schools, hospitals, sociality,jobs etc. I thought seeing reviews from local people would help to others to pick best location to live. This app would help for people who relocate and don't have someone to ask for recommendation or don't have time to make a deep search about cities.
 
 ### Features
 Users login: Users will be able to create accounts and log in to the application.
-Search:Users will be able to search cities with State name.
-Sort: Users will be able to sort selections by ratings with specific category.
-Vote: Users will be able to upvote and downvote for categories.
-Comment: Users will be able to create, read, edit, delete comments for cities.
+Search:Users will be able to search cities country, territory, or state.
+Sort: Users will be able to sort cities by ratings.
+Review: Users will be able to add review for cities.
+
 
 ### Technologies
 Java
@@ -27,7 +27,6 @@ HTLML
 Bootstrap
 
 ### What I'll Have to Learn
- will need to learn how to implement vote system and display ratings with 5 stars like used on all the other apps.
 Implementing API for cities.
 ### Project Tracker
-https://trello.com/b/ZIUE2eLL/liftoff
+https://trello.com/b/rdzXKTzs/liftoff-capstone-project
