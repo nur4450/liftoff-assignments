@@ -7,26 +7,36 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-I wanted to create an app where people can search the cities by their ratings in different categories such as safety, affordability, schools, hospitals, sociality,jobs etc. I thought seeing reviews from local people would help to others to pick best location to live. This app would help for people who relocate and don't have someone to ask for recommendation or don't have time to make a deep search about cities.
+Piri- Find your Place
+
+Piri is an application for people looking to relocate. The app offers information about cities based on factors like cost of living, safety and security ratings, employment prospects, local education etc. Piri supports community-driven approach to provide accurate information about the cities by encouraging local residents to comment and write reviews on the app.
+
+Piri's mission is to help people make informed decision for their new place. The users can search for cities, compare them and view comments and reviews from local people to make the best choice for themselves.
 
 ### Features
-Users login: Users will be able to create accounts and log in to the application.
-Search:Users will be able to search cities by country, territory, or state.
-Sort: Users will be able to sort cities by ratings.
-Review: Users will be able to add review for cities.
+User login: Users will be able to signup for accounts and login to the application. Each user will be able to create a profile page.
+
+Search: Users will be able to search for cities and see detail information about them.
+
+Sort: Users will be able to sort cities based on various factors like cost of living, safety and security ratings, employment prospects, local education etc.
+
+Compare: Users will be able to compare multiple cities.
+
+Comments & Reviews: Users will be able to add comments and reviews about their cities.
 
 
 ### Technologies
 Java
 Spring Boot
 MySQL
-Thymeleaf templates
 Hibernate
-Css
-HTLML
+Thymeleaf templates
+JavaScript
 Bootstrap
+HTML
+CSS
 
 ### What I'll Have to Learn
-Implementing API for cities.
+Public API integration to retrieve details about cities.
 ### Project Tracker
 https://trello.com/b/rdzXKTzs/liftoff-capstone-project
